@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
+print(33)
 T = 18
 h = 0.5
 L = 20 - h
